@@ -1,0 +1,12 @@
+body {
+    background-color:azure;
+    text-align: center;
+  }
+  h1, h2 {
+    color:darkcyan;
+  }
+  div.Talking {
+    color:brown;
+  }
+  div span.one {
+      font-size: 20px;  }
